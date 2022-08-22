@@ -5,7 +5,7 @@
 ### first activate the venv:
 
 	$ cd venv\Scripts
-	$ activate.ps1
+	$ activate
 ### then run the app:
 
 	$ python3 manage.py runserver
