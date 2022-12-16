@@ -2,15 +2,15 @@
 
 #### with this App you can manage airline such as creating ,editing & deleting flights , adding passengers to flights , adding airports etc...
 ## How to use:
-### first create empty virtual environment:
+### First create empty virtual environment:
 
 	$ virtualenv <env_name>
     $ source <env_name>/bin/activate
 
-### then install required packages:
+### Then install required packages:
     (<env_name>)$ pip install -r path/to/requirements.txt
 	$ activate
-### after that ,run the app:
+### After that ,run the app:
 
 	$ python3 manage.py runserver
 
