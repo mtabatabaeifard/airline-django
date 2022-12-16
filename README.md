@@ -6,9 +6,11 @@
 
 	$ virtualenv <env_name>
     $ source <env_name>/bin/activate
+
+### then install required packages:
     (<env_name>)$ pip install -r path/to/requirements.txt
 	$ activate
-### then run the app:
+### after that ,run the app:
 
 	$ python3 manage.py runserver
 
